@@ -7,9 +7,6 @@ import { connect } from 'react-redux';
 import { Redirect } from 'react-router';
 
 
-// Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sit amet hendrerit odio, ac venenatis tortor. Suspendisse sagittis vel est ac molestie. Vestibulum maximus vestibulum nulla id ullamcorper. Etiam pellentesque, risus at feugiat vestibulum, leo nisi tristique metus, sit amet viverra diam odio et elit. Curabitur mattis purus sit amet purus elementum ornare. Nam ullamcorper libero consectetur lorem finibus lacinia. Duis iaculis pulvinar tortor rutrum efficitur.
-
-
 class AuthComponent extends Component {
   constructor(props){
     super(props);
